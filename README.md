@@ -1,14 +1,3 @@
-# CS 5010 Semester Project
-
-This repo represents the coursework for CS 5010!
-
-**Name:** Tri Nguyen
-
-**Email:** nguyen.tri2@northeastern.edu
-
-**Preferred Name:** Tri (he/him)
-
-
 ### About/Overview
 
 This project is a simulation model of a Cybernetic Implant Clinic. 
@@ -43,7 +32,7 @@ assignments for patients and the staff responsible for them.
 
 ### How to Run
 
-A. Download the milestone-2-tringuyen1086.jar File [here](https://github.com/CS5010Fall2024/milestone-2-tringuyen1086/tree/main/res)
+A. Download the milestone-2-tringuyen1086.jar File [here](https://github.com/tringuyen1086/Cybernetic-Implant-Clinic-Simulation/blob/main/res/milestone-2-tringuyen1086.jar)
 - Per Professor's instruction, the .jar file is save in the res directory.
 - Click on the .jar file to download it to your local machine.
 
